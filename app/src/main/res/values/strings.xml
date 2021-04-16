@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FactsApp</string>
+    <string name="internet_not_avaiable_to_pulldata">Internet not avaiable to pull data from server</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_picker">Show Picker</string>
+    <string name="enable_gps">enable gps</string>
+    <string name="required_for_this_app">Required permisison for this app</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="location_permission_not_granted">required permiission to proceed</string>
+    <string name="temprature">temperature:%s</string>
+    <string name="min_temprature">min temperature:%s</string>
+    <string name="max_temprature">max temperature:%s</string>
+</resources>
