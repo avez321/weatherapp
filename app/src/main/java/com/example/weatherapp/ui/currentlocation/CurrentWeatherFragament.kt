@@ -1,4 +1,4 @@
-package com.example.weatherapp.ui.facts.currentlocation
+package com.example.weatherapp.ui.currentlocation
 
 import android.app.DatePickerDialog
 import android.content.pm.PackageManager

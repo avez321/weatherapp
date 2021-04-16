@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.weatherapp.di.factory.ViewModelFactory
 import com.example.weatherapp.di.ViewModelKey
 import com.example.weatherapp.di.scope.FragmentScoped
-import com.example.weatherapp.ui.facts.currentlocation.CurrentWeatherViewModel
+import com.example.weatherapp.ui.currentlocation.CurrentWeatherViewModel
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap

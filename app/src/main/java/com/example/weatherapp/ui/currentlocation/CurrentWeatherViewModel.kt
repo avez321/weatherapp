@@ -1,4 +1,4 @@
-package com.example.weatherapp.ui.facts.currentlocation
+package com.example.weatherapp.ui.currentlocation
 
 
 import android.Manifest
@@ -33,7 +33,6 @@ import javax.inject.Inject
 
 
 class CurrentWeatherViewModel @Inject constructor(application: Application) : AndroidViewModel(application) {
-    private val datePickerMutableLiveData: MutableLiveData<String> = MutableLiveData()
 
     private val context = getApplication<Application>().applicationContext
 

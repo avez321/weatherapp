@@ -7,13 +7,13 @@
     <data>
         <variable
             name="viewmodel"
-            type="com.example.weatherapp.ui.facts.currentlocation.CurrentWeatherViewModel" />
+            type="com.example.weatherapp.ui.currentlocation.CurrentWeatherViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".ui.facts.currentlocation.CurrentWeatherFragament">
+        tools:context=".ui.currentlocation.CurrentWeatherFragament">
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_show_picker"

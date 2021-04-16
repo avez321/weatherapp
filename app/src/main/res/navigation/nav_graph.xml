@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/currentLoacation"
-        android:name="com.example.weatherapp.ui.facts.currentlocation.CurrentWeatherFragament"
+        android:name="com.example.weatherapp.ui.currentlocation.CurrentWeatherFragament"
         android:label="CurrentLocationFragament"
         tools:layout="@layout/fragment_current_location_fragament" >
 
